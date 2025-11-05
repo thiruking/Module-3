@@ -28,7 +28,7 @@ def remove(string):
 ```
 
 ## Output
-![Uploading image.png…]()
+<img width="1115" height="204" alt="image" src="https://github.com/user-attachments/assets/1f4d4d0f-cafe-4fe2-a437-0471b5de8431" />
 
 
 ## Result
